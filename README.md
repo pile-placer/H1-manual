@@ -40,6 +40,8 @@ Installation procedure:
 
 ## Software Configuration
 
+To use the software, on the rugged tablet, open `Brave` then in the new browser tab open `localhost:8000`, you wu
+
 ### Vehicle Configuration
 
 Once all the components are in place, we will use the provided software to
